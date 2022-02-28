@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true manner of the crovvning of Charles the Second King of Scotland, on the first day of January, 1650. Together with a description of his life, and throne; and a cleare view of his court and counsell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95073</idno>
+            <idno type="STC">Wing T2759</idno>
+            <idno type="STC">Thomason 669.f.15[81]</idno>
+            <idno type="STC">ESTC R212096</idno>
+            <idno type="EEBO-CITATION">99870746</idno>
+            <idno type="PROQUEST">99870746</idno>
+            <idno type="VID">163155</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163155)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[81])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true manner of the crovvning of Charles the Second King of Scotland, on the first day of January, 1650. Together with a description of his life, and throne; and a cleare view of his court and counsell.</title>
+                  <author>Charles II, King of England, 1660-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With engraved equestrian portrait of Charles II.</note>
+                  <note>Annotations on Thomason copy: "feb: 27 1650"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>The manner of crowning Charles the Second king of Scotland -- The oath sworn by Charles the Second, King of Scotland, at his coronation, 1 Jan 1650 -- A speech made by Charles the Second, King of Scotland, at his coronation on 1 January 1650 -- The ministers speech at the tendring of the crown to the King -- A description of the life and throne, and a cleare view of the court and councel of Charles the Second king of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163155:1" rendition="simple:additions"/>
+            <head>The True Manner of the Crowning of Charles the Second King
+of Scotland, on the Firſt day of January, 1650. Together with a Deſcription of his Life, and Throne;
+And a cleare view of his Court and Counſell.</head>
+            <div type="part">
+               <head>The Manner of Crowning
+CHARLES the Second King
+of Scotland.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Crown, Sword and Scepter,
+being brought to <hi>Scoon,</hi> by the
+Eſtates of Parliament, their
+King ſitting in his Chaire of
+State, and the Nobility, Ba<g ref="char:EOLhyphen"/>rons
+and Burgeſſes of Parliament about him,
+in the Preſence Chamber.</p>
+               <p>The Marqueſſe of <hi>Arguile</hi> made a Speech,
+advertiſing the King, that the Parliament of
+<hi>Scotland</hi> were come to preſent his Majeſty
+with the Crown, Sword, and Scepter; But
+that before he received it, he was to take an
+Oath, and ſweare as his former predeceſſors
+had done before him, which Oath was ten<g ref="char:EOLhyphen"/>dred
+to the King and he ſware to it as follow<g ref="char:EOLhyphen"/>eth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="oath">
+                           <head>The Oath ſworn by CHARLES
+the Second, King of Scotland, at
+his Coronation, 1 Jan. 1650.</head>
+                           <p>
+                              <hi>I</hi> Doe Promiſe and Vow in the pre<g ref="char:EOLhyphen"/>ſence
+of the Eternall God, that I will
+maintain the true Kirke of God, Reli<g ref="char:EOLhyphen"/>gion,
+right Preaching, and adminiſtra<g ref="char:EOLhyphen"/>tion
+of the Sacraments, now Received
+and Preached within this Realme in pu<g ref="char:EOLhyphen"/>rity.</p>
+                           <p>And ſhall aboliſh and gain-ſtand all
+falſe Religions and Sects contrary to
+the ſame.</p>
+                           <p>And ſhall rule the people committed
+to my charge according to the will of God,
+and laudable Lawes and Conſtitutions of
+the Realme; cauſing Iuſtice and Equi<g ref="char:EOLhyphen"/>ty
+to bee miniſtred without partiality.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <figure/>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <head>A Speech made by CHARLES
+the Second, King of Scotland
+at his Coronation on
+1 January 1650.</head>
+                           <p>
+                              <hi>I</hi> Will by Gods aſsiſtance bestow my life
+for your Defence, wiſhing to live no
+longer, then that I may ſee this kingdome
+flouriſh in happineſſe.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Then the Scots King ſtood upon a place
+where he might ſhew himſelfe to the people
+and made proteſtations of great love and af<g ref="char:EOLhyphen"/>fection
+to them; and the Crown being ten<g ref="char:EOLhyphen"/>dred
+to the King, by three Miniſters of the
+Aſſembly, one of them ſpake as followeth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <head>The Miniſters Speech at the tendring
+of the Crown to the King.</head>
+                           <opener>
+                              <salute>SIR,</salute>
+                           </opener>
+                           <p>
+                              <hi>I</hi> Doe preſent unto you <hi>King Charles
+the Second,</hi> the right Deſcended Inhe<g ref="char:EOLhyphen"/>ritor,
+the Crown and Dignity of this Realm,
+(<hi>then turning his face towards the peo<g ref="char:EOLhyphen"/>ple,
+the Miniſter ſaid further</hi>) Are ye
+not willing to have him for your king, and
+become ſubject to him?</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>At which time the Crowne was held be<g ref="char:EOLhyphen"/>fore
+the King three Miniſters of the Aſ<g ref="char:EOLhyphen"/>ſembly
+being preſent, then the King turned
+himſelf to be ſeen of the people, who cryed
+with a great noiſe, <hi>God ſave King Charles the
+Second.</hi> And then he had the Crown put up<g ref="char:EOLhyphen"/>on
+his head, by the Marqueſſe of <hi>Arguile,</hi> and
+he took the Scepter in his hand, and the Sword
+he gave to a Lord of <hi>Scotland</hi> to bear it before
+him.</p>
+            </div>
+            <div type="part">
+               <head>A Deſcription of the Life and Throne, and a <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e view of the Court and Councel of <hi>CHARLES</hi> the Second King of <hi>Scotland.</hi>
+               </head>
+               <p>This glittering Commet is not to be numbred amongſt the fix<g ref="char:EOLhyphen"/>ed
+Starres, his Crown carrieth no luſter, but what aſſumes a fain<g ref="char:EOLhyphen"/>ed
+aſpect to the pur-blind <hi>Jockeys,</hi> between <hi>Fife</hi> and <hi>Orkney,</hi> who
+deale with him, as their predeceſſors did with their ſimple ignorant
+King <hi>Ethodius</hi> the ſecond, whom they Crowned for reverence to
+the Race of <hi>Fergus,</hi> to carry the name of a King, but the Eſtates
+governed him by a guard of Tutors, yet he himſelfe acts his deſigns
+like <hi>Nathalocus,</hi> their thirtieth King, who corrupting their Grandees
+with buds of faire promiſes, obtained the Regall power.</p>
+               <p>This Artificiall Meteor, is only a Scottiſh vapour, exhaled by
+French diſtillation, and with clenſing thunder ſhaken out of the
+Engliſh horizon, fallen into the boſome of the Kirke of <hi>Scotland,</hi>
+and made their Baby in the Stoole of repentance, ſwearing as once
+<hi>Galdus</hi> did in the ſame Thron, <hi>Se majorum conſiliis acquieturum.</hi>
+               </p>
+               <p>They having poured the oyle of the Presbytery upon him, and
+given him the Crown and Scepter to weare for them (though <hi>Ar<g ref="char:EOLhyphen"/>guile</hi>
+had not power to hold it right and eaſily, on his diſturbed and
+a king head) whilſt they devide the rags of his tattered Throne be<g ref="char:EOLhyphen"/>tween
+the Kirke and Cavaliers, whoſe actings towards their new
+Soveraign, puts him into a worſe condition in the <hi>Charles</hi>-Waine,
+they make him draw, then an honeſt Engliſh Carter that hath a Team
+of Horſes to pul for him.</p>
+               <p>His unhappineſſe in his fatall Progenitors, he may read in Capi<g ref="char:EOLhyphen"/>talls,
+engraven even on the Throne he ſits in, where is legible to his
+eyes, the ecodemical diſaſters of the Family out of which he ſprang,
+His Father was beheaded, His Grand-Father (as ſome Phiſitians
+have declared) poyſoned, His great Grand-Father, and ſo on to
+ſeverall aſſents before, ſucceſſively cut off, by diſaſtrous deaths.</p>
+               <p>And for himſelfe, His niger haire, and ſwarthy complexion is a
+viſible heroglifix of his gloomy motions, in which he followes the
+dictates of his mothers counſels and the Scots commands, reſolved
+into politickes, as furiouſly as his obſtinate Father did the humor of
+<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is own will.</p>
+               <p>He hath deſigned popularity from a child, and even in his tender
+years expreſſed paſſion againſt his maidens, that diſturbed thoſe boys
+that came to play with him.</p>
+               <p>And he did often in the City of <hi>London</hi> (the metropolis of his fathers
+Teritoryes) to draw the peoples affections to be as fixed on him as
+their eyes, ſcatter many handfuls of ſilver in ſmal coyne, from ſe<g ref="char:EOLhyphen"/>veral
+Windowes and Belconyes in Cheape-ſide and other places, a<g ref="char:EOLhyphen"/>mongſt
+the vulgar, and (as if he had Roman Royalty bred in his
+viſage) forced himſelfe to triumph in this liberality without any vi<g ref="char:EOLhyphen"/>ſible
+change in his countenance. But the words of <hi>Augustine</hi> con<g ref="char:EOLhyphen"/>taine
+the <hi>Encomium</hi> of charity: <hi>Charitas eſt amor rerum quas non niſi
+volentes amittemus.</hi>
+               </p>
+               <p>In his fathers preſence, he ſeemed to admire his Throne, and be<g ref="char:EOLhyphen"/>fore
+his mother, her Idolls, yet to perſons popular, hee had many
+glances againſt the Arch-Biſhop of <hi>Canterbury</hi> and others, whom
+the peoples diſcontents ſtruck at; as if <hi>Abſolom</hi>-like, he cheifly ſtu<g ref="char:EOLhyphen"/>dyed
+the Preparation to his Fathers Kingdomes.</p>
+               <p>But herein, he did but delude thoſe poor dreamers, (as he doth
+now the Scotch Presbyters) who being rich onely whilſt they ſleep
+looſe all as ſoon as they awake, their dreames inrich them, but
+when they awake they are plundered of all, and reduced to their
+former poverty.</p>
+               <p>During the late bloody warres of his Fathers waging, againſt the
+Parliament of <hi>England,</hi> he was either with him actually, or (in his
+abſence) carried on by the advice of <hi>Cottington, Barkley, Culpepper,</hi>
+and others by his Father appointed for his abſolute Councellours,
+and after his Fathes death, he wholly proſtrated himſelfe to the for<g ref="char:EOLhyphen"/>tune
+of his mothers and the Jeſuites, and Popiſh Prieſts reſolutions,
+as <hi>Culenus</hi> did to the Monaſtery of St. <hi>Andrews.</hi>
+               </p>
+               <p>And after a foundation to act his deſignes upon, which were laid
+with great conſultations by power and policy to ſubdue <hi>England,
+Scotland,</hi> and <hi>Ireland</hi> to his obedience which gave him ſome ſeeming
+promiſes (but no concluſion) at <hi>Jerſey.</hi> His brother of <hi>Orange</hi> was
+thought to have more ſublime wings to give influence to thoſe
+cockatriſe egges; who brooded ſo effectually that the Treaty at <hi>Breda</hi>
+patched up a publicke agreement with <hi>Scotland,</hi> as wel as a private
+one with <hi>Ireland</hi> (though the Dutch Prince ſo waſted his ſpirits in
+it, that he ſoone dyed after) and <hi>Charles Stuart</hi> (upon his ill ſucceſſe
+againſt <hi>England</hi>) being forced to keep beyond <hi>Fife,</hi> and the Scots
+cooped up with him, they are like <hi>Pilate</hi> and the Jewes, (though
+averſe to each other) joyned in combination againſt <hi>England.</hi> And in
+this fury he hath ſnatched up the Crown of <hi>Scotland.</hi>
+               </p>
+               <p>And with great difficulty doth he divide himſelfe to play his part
+that he may ſit faſt on that frozen Throne, To the Kirk he bequeaths
+his Tongue, to the Cavaliers his Armes, to the Engliſh Courtiers
+his Back, and to the pure Malignants his Breſt; which makes mee
+remember him that ſaid, <hi>All the good Princes may be engraven in a ring.</hi>
+               </p>
+               <p>The Commonwealth of <hi>Scotland</hi> find fault with many unneceſſary
+pleaſures of his yourh, the Nobility cenſure his too much abaſing
+both himſelf and them, the Kirke peirceth even his very thoughts,
+which they take upon them to divine and judge of; and yet none
+deales ſo plainly with him as the horſe he rides on, who gives war<g ref="char:EOLhyphen"/>ning
+by careering, that (being neither flatterer nor Courtier) hee
+wil caſt him to the ground, as wel as the pooreſt Groome of his
+Stable; and as for the common people (eſpecially the women,)
+as wel as the Ladyes, though not with ſo near reception, they are
+daily and hourely ſoliciting, viſiting, or (at leaſt) gazing upon him,
+ſo that he may ſay with King <hi>Alphonſus,</hi> that <hi>the Eſtate of an Aſſe, is
+better then his condition,</hi>
+               </p>
+               <p>And for the better advancement of their cauſe, as pure Cove<g ref="char:EOLhyphen"/>nanters
+(they being a diſſembling people (from whence ariſeth the
+proverb, <hi>as falſe as a Scot,</hi>) they ſuffer him not truly to know the ſtate
+affaires, themſelves not acknowledging the truth though never ſo
+tranſparent, which made them before their rout at <hi>Muſleborough,</hi> to
+ſit in conſultation <hi>what conditions it was fit they ſhould offer to the</hi> Eng<g ref="char:EOLhyphen"/>liſh,
+(<hi>then in</hi> Scotland which they ſaid were flying away home<g ref="char:EOLhyphen"/>ward)
+<hi>whether or no, quarter was to be allowed to any for their lives,
+and to whom only, and upon what termes.</hi>
+               </p>
+               <p>But this diſpute was ended for that time, by the defeate given to
+the Scots by the Engliſh, who ſlew about 4000. took above 10000
+private Souldiers priſoners, 2000 of their Horſe killed, ſpoyled and
+taken 290 Colonells and other Commiſſion Officers. And
+two of their Committee of Eſtates, the Lord <hi>Liberton</hi> and Sir <hi>James
+Lumſden</hi> (Lieut. General of the Foote) and ſome of their Miniſters
+taken priſoners, and there was taken beſides 15000 Armes, 200
+Coulours 32 peece of Ordnance, and al their Ammunition Bagge and
+Baggage. And this was done but a day or two before their inten<g ref="char:EOLhyphen"/>tion
+to have received him into their Army.</p>
+               <p>And now ſince they have Crowned him, and made him <hi>Generaliſ<g ref="char:EOLhyphen"/>ſimo,</hi>
+as wel as <hi>Rex,</hi> they carry him on as hood-winkt as before, <hi>Maſ<g ref="char:EOLhyphen"/>ſey,</hi>
+and the reſt of the Engliſh (in hopes to find their own ſubſiſt<g ref="char:EOLhyphen"/>ance
+in his fortunes) pretend a great intereſt and power in <hi>England</hi>
+to concurre with his deſignes, by which they ſqueeze ſome favour
+from him (by the leave of the Kirk, upon the Presbyterian account)
+for imployment and maintenance in the interim. <hi>Arguile</hi> and the
+Scots they promiſe him greater things to be revealed to them, to be
+accompliſhed in the influence of St. <hi>Patricke,</hi> then any of St. <hi>Georges</hi>
+hobby horſes.</p>
+               <p>But the <hi>Gourdons</hi> and Papiſts tel him that it is moſt conducing to
+make him great and glorious, to ſatisfie the <hi>Iriſh,</hi> and all other Ro<g ref="char:EOLhyphen"/>miſh
+Catholickes in the three Nations, and ſpeedily to diſmiſſe the
+two <hi>Iriſh</hi> Lords <hi>Ormond</hi> and <hi>Inchequeen,</hi> with ample returnes full
+of ſatisfaction to the Aſſembly, that ſo they being capable to reduce
+<hi>Ireland,</hi> they may, having accompliſht it, come over and go on hel<g ref="char:EOLhyphen"/>ping
+to carry on the work <hi>effectivè</hi> in the three Nations.</p>
+               <p>But why doe the Papiſts rage, and the Kirke imagine a vain thing
+the King of <hi>Scotland</hi> ſet himſelf, and the Eſtates take councel toge<g ref="char:EOLhyphen"/>ther,
+after ſo great appeales, and ſuch evident manifeſtations of the
+Lords ſo viſibly owning of his cauſe againſt them? He that ſitteth
+in the heavens ſhal laugh, the Lord ſhal have them in deriſion.</p>
+               <p>If ſo many Emperours after <hi>Pompey</hi> the great, and <hi>Caeſar,</hi> could
+not but fall when the decree was gone out, if the Queen <hi>Mary</hi> of
+<hi>Scotland,</hi> if his own Father the late King, their heads were both
+cut off with the Executioners hatchets, how can the ſon thinke to
+eſcape? What are the great fruitleſſe boaſtings of <hi>Engliſh</hi> Malignants
+the vaine hopes of Iriſh Papiſts, and the Royal Muſters in the North
+of <hi>Scotland</hi> (for the South of <hi>Fife</hi> and <hi>Sterling</hi> they dare not attempt)
+ſince even <hi>Henry</hi> the third (one of the Predeceſſors of his mothers
+Family) of <hi>France,</hi> was murdered wilfully by a little Monke in the
+middeſt of 40000 armed men.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Publiſhed by Authority.</p>
+            <p>London Printed by <hi>Robert Ibbitſon,</hi> 1651.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
